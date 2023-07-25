@@ -1,0 +1,15 @@
+/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/bin/Debug/net7.0/ProHomework
+/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/bin/Debug/net7.0/ProHomework.deps.json
+/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/bin/Debug/net7.0/ProHomework.runtimeconfig.json
+/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/bin/Debug/net7.0/ProHomework.dll
+/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/bin/Debug/net7.0/ProHomework.pdb
+/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/obj/Debug/net7.0/ProHomework.csproj.AssemblyReference.cache
+/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/obj/Debug/net7.0/ProHomework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/obj/Debug/net7.0/ProHomework.AssemblyInfoInputs.cache
+/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/obj/Debug/net7.0/ProHomework.AssemblyInfo.cs
+/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/obj/Debug/net7.0/ProHomework.csproj.CoreCompileInputs.cache
+/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/obj/Debug/net7.0/ProHomework.dll
+/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/obj/Debug/net7.0/refint/ProHomework.dll
+/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/obj/Debug/net7.0/ProHomework.pdb
+/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/obj/Debug/net7.0/ProHomework.genruntimeconfig.cache
+/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/obj/Debug/net7.0/ref/ProHomework.dll
