@@ -1,28 +1,22 @@
-﻿<Properties StartupConfiguration="{91D0B32C-1E93-42A6-91AA-6EC127917817}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties StartupConfiguration="{50E62A5A-E614-4196-BF37-EF486FE759CA}|Default">
+  <MonoDevelop.Ide.ItemProperties.HomeworkMusicInstrument FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HomeworkStruct FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ProHomework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HomeWork2_228OOP_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Chtototamtipa FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ProHomework/Program.cs">
     <Files>
-      <File FileName="ProHomework/Program.cs" Line="8" Column="6" />
-      <File FileName="ProHomework/Calculator.cs" Line="16" Column="42" />
+      <File FileName="ProHomework/Program.cs" Line="12" Column="1" />
+      <File FileName="ProHomework/Calculator.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="ProHomework" expanded="True">
-            <Node name="ff" expanded="True" />
-            <Node name="ProHomework" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ProHomework PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

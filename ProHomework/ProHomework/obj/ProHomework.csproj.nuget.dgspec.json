@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/ProHomework.csproj": {}
+    "/Users/karinaboyko/Repos/Sharp/ProHomework/ProHomework/ProHomework.csproj": {}
   },
   "projects": {
-    "/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/ProHomework.csproj": {
+    "/Users/karinaboyko/Repos/Sharp/ProHomework/ProHomework/ProHomework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/ProHomework.csproj",
+        "projectUniqueName": "/Users/karinaboyko/Repos/Sharp/ProHomework/ProHomework/ProHomework.csproj",
         "projectName": "ProHomework",
-        "projectPath": "/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/ProHomework.csproj",
+        "projectPath": "/Users/karinaboyko/Repos/Sharp/ProHomework/ProHomework/ProHomework.csproj",
         "packagesPath": "/Users/karinaboyko/.nuget/packages/",
-        "outputPath": "/Users/karinaboyko/Projects/ProHomework/ProHomework/ProHomework/obj/",
+        "outputPath": "/Users/karinaboyko/Repos/Sharp/ProHomework/ProHomework/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/karinaboyko/.nuget/NuGet/NuGet.Config"

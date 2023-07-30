@@ -5,6 +5,12 @@ VisualStudioVersion = 25.0.1706.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProHomework", "ProHomework\ProHomework.csproj", "{91D0B32C-1E93-42A6-91AA-6EC127917817}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2(OOP)", "HomeWork2(OOP)\HomeWork2(OOP).csproj", "{50E62A5A-E614-4196-BF37-EF486FE759CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkMusicInstrument", "HomeworkMusicInstrument\HomeworkMusicInstrument.csproj", "{F6C21D44-8BBC-4C78-9C93-EB139B12652B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkStruct", "HomeworkStruct\HomeworkStruct.csproj", "{3A894332-326A-44DF-B86D-4D848903AE5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{91D0B32C-1E93-42A6-91AA-6EC127917817}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91D0B32C-1E93-42A6-91AA-6EC127917817}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91D0B32C-1E93-42A6-91AA-6EC127917817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E62A5A-E614-4196-BF37-EF486FE759CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E62A5A-E614-4196-BF37-EF486FE759CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E62A5A-E614-4196-BF37-EF486FE759CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E62A5A-E614-4196-BF37-EF486FE759CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C21D44-8BBC-4C78-9C93-EB139B12652B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C21D44-8BBC-4C78-9C93-EB139B12652B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C21D44-8BBC-4C78-9C93-EB139B12652B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C21D44-8BBC-4C78-9C93-EB139B12652B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A894332-326A-44DF-B86D-4D848903AE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A894332-326A-44DF-B86D-4D848903AE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A894332-326A-44DF-B86D-4D848903AE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A894332-326A-44DF-B86D-4D848903AE5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
