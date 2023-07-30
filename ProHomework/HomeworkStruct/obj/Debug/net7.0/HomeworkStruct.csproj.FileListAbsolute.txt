@@ -1,0 +1,15 @@
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkStruct/obj/Debug/net7.0/HomeworkStruct.csproj.AssemblyReference.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkStruct/obj/Debug/net7.0/HomeworkStruct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkStruct/obj/Debug/net7.0/HomeworkStruct.AssemblyInfoInputs.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkStruct/obj/Debug/net7.0/HomeworkStruct.AssemblyInfo.cs
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkStruct/obj/Debug/net7.0/HomeworkStruct.csproj.CoreCompileInputs.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkStruct/bin/Debug/net7.0/HomeworkStruct
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkStruct/bin/Debug/net7.0/HomeworkStruct.deps.json
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkStruct/bin/Debug/net7.0/HomeworkStruct.runtimeconfig.json
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkStruct/bin/Debug/net7.0/HomeworkStruct.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkStruct/bin/Debug/net7.0/HomeworkStruct.pdb
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkStruct/obj/Debug/net7.0/HomeworkStruct.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkStruct/obj/Debug/net7.0/refint/HomeworkStruct.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkStruct/obj/Debug/net7.0/HomeworkStruct.pdb
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkStruct/obj/Debug/net7.0/HomeworkStruct.genruntimeconfig.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkStruct/obj/Debug/net7.0/ref/HomeworkStruct.dll

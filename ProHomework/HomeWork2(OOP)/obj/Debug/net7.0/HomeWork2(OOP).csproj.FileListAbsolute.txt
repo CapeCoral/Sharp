@@ -1,0 +1,15 @@
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeWork2(OOP)/bin/Debug/net7.0/HomeWork2(OOP)
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeWork2(OOP)/bin/Debug/net7.0/HomeWork2(OOP).deps.json
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeWork2(OOP)/bin/Debug/net7.0/HomeWork2(OOP).runtimeconfig.json
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeWork2(OOP)/bin/Debug/net7.0/HomeWork2(OOP).dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeWork2(OOP)/bin/Debug/net7.0/HomeWork2(OOP).pdb
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeWork2(OOP)/obj/Debug/net7.0/HomeWork2(OOP).csproj.AssemblyReference.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeWork2(OOP)/obj/Debug/net7.0/HomeWork2(OOP).GeneratedMSBuildEditorConfig.editorconfig
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeWork2(OOP)/obj/Debug/net7.0/HomeWork2(OOP).AssemblyInfoInputs.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeWork2(OOP)/obj/Debug/net7.0/HomeWork2(OOP).AssemblyInfo.cs
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeWork2(OOP)/obj/Debug/net7.0/HomeWork2(OOP).csproj.CoreCompileInputs.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeWork2(OOP)/obj/Debug/net7.0/HomeWork2(OOP).dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeWork2(OOP)/obj/Debug/net7.0/refint/HomeWork2(OOP).dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeWork2(OOP)/obj/Debug/net7.0/HomeWork2(OOP).pdb
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeWork2(OOP)/obj/Debug/net7.0/HomeWork2(OOP).genruntimeconfig.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeWork2(OOP)/obj/Debug/net7.0/ref/HomeWork2(OOP).dll

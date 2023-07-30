@@ -1,0 +1,15 @@
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkMusicInstrument/bin/Debug/net7.0/HomeworkMusicInstrument
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkMusicInstrument/bin/Debug/net7.0/HomeworkMusicInstrument.deps.json
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkMusicInstrument/bin/Debug/net7.0/HomeworkMusicInstrument.runtimeconfig.json
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkMusicInstrument/bin/Debug/net7.0/HomeworkMusicInstrument.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkMusicInstrument/bin/Debug/net7.0/HomeworkMusicInstrument.pdb
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkMusicInstrument/obj/Debug/net7.0/HomeworkMusicInstrument.csproj.AssemblyReference.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkMusicInstrument/obj/Debug/net7.0/HomeworkMusicInstrument.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkMusicInstrument/obj/Debug/net7.0/HomeworkMusicInstrument.AssemblyInfoInputs.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkMusicInstrument/obj/Debug/net7.0/HomeworkMusicInstrument.AssemblyInfo.cs
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkMusicInstrument/obj/Debug/net7.0/HomeworkMusicInstrument.csproj.CoreCompileInputs.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkMusicInstrument/obj/Debug/net7.0/HomeworkMusicInstrument.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkMusicInstrument/obj/Debug/net7.0/refint/HomeworkMusicInstrument.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkMusicInstrument/obj/Debug/net7.0/HomeworkMusicInstrument.pdb
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkMusicInstrument/obj/Debug/net7.0/HomeworkMusicInstrument.genruntimeconfig.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/HomeworkMusicInstrument/obj/Debug/net7.0/ref/HomeworkMusicInstrument.dll
