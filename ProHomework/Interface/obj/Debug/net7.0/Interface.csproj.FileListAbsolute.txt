@@ -1,0 +1,15 @@
+/Users/karinaboyko/Repos/Sharp/ProHomework/Interface/bin/Debug/net7.0/Interface
+/Users/karinaboyko/Repos/Sharp/ProHomework/Interface/bin/Debug/net7.0/Interface.deps.json
+/Users/karinaboyko/Repos/Sharp/ProHomework/Interface/bin/Debug/net7.0/Interface.runtimeconfig.json
+/Users/karinaboyko/Repos/Sharp/ProHomework/Interface/bin/Debug/net7.0/Interface.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/Interface/bin/Debug/net7.0/Interface.pdb
+/Users/karinaboyko/Repos/Sharp/ProHomework/Interface/obj/Debug/net7.0/Interface.csproj.AssemblyReference.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/Interface/obj/Debug/net7.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karinaboyko/Repos/Sharp/ProHomework/Interface/obj/Debug/net7.0/Interface.AssemblyInfoInputs.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/Interface/obj/Debug/net7.0/Interface.AssemblyInfo.cs
+/Users/karinaboyko/Repos/Sharp/ProHomework/Interface/obj/Debug/net7.0/Interface.csproj.CoreCompileInputs.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/Interface/obj/Debug/net7.0/Interface.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/Interface/obj/Debug/net7.0/refint/Interface.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/Interface/obj/Debug/net7.0/Interface.pdb
+/Users/karinaboyko/Repos/Sharp/ProHomework/Interface/obj/Debug/net7.0/Interface.genruntimeconfig.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/Interface/obj/Debug/net7.0/ref/Interface.dll
