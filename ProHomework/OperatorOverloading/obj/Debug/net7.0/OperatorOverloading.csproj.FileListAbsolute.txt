@@ -1,0 +1,15 @@
+/Users/karinaboyko/Repos/Sharp/ProHomework/OperatorOverloading/bin/Debug/net7.0/OperatorOverloading
+/Users/karinaboyko/Repos/Sharp/ProHomework/OperatorOverloading/bin/Debug/net7.0/OperatorOverloading.deps.json
+/Users/karinaboyko/Repos/Sharp/ProHomework/OperatorOverloading/bin/Debug/net7.0/OperatorOverloading.runtimeconfig.json
+/Users/karinaboyko/Repos/Sharp/ProHomework/OperatorOverloading/bin/Debug/net7.0/OperatorOverloading.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/OperatorOverloading/bin/Debug/net7.0/OperatorOverloading.pdb
+/Users/karinaboyko/Repos/Sharp/ProHomework/OperatorOverloading/obj/Debug/net7.0/OperatorOverloading.csproj.AssemblyReference.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/OperatorOverloading/obj/Debug/net7.0/OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karinaboyko/Repos/Sharp/ProHomework/OperatorOverloading/obj/Debug/net7.0/OperatorOverloading.AssemblyInfoInputs.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/OperatorOverloading/obj/Debug/net7.0/OperatorOverloading.AssemblyInfo.cs
+/Users/karinaboyko/Repos/Sharp/ProHomework/OperatorOverloading/obj/Debug/net7.0/OperatorOverloading.csproj.CoreCompileInputs.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/OperatorOverloading/obj/Debug/net7.0/OperatorOverloading.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/OperatorOverloading/obj/Debug/net7.0/refint/OperatorOverloading.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/OperatorOverloading/obj/Debug/net7.0/OperatorOverloading.pdb
+/Users/karinaboyko/Repos/Sharp/ProHomework/OperatorOverloading/obj/Debug/net7.0/OperatorOverloading.genruntimeconfig.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/OperatorOverloading/obj/Debug/net7.0/ref/OperatorOverloading.dll

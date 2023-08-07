@@ -1,27 +1,33 @@
-﻿<Properties StartupConfiguration="{3A894332-326A-44DF-B86D-4D848903AE5B}|Default">
+﻿<Properties StartupConfiguration="{FC73745D-A5A0-45D0-AE25-A81EEDDE9128}|Default">
   <MonoDevelop.Ide.ItemProperties.HomeWork2_228OOP_229 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Interface/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OperatorOverloading/Matrix.cs">
     <Files>
-      <File FileName="Interface/Program.cs" Line="14" Column="1" />
+      <File FileName="OperatorOverloading/Program.cs" Line="54" Column="43" />
+      <File FileName="OperatorOverloading/Employee.cs" Line="23" Column="1" />
+      <File FileName="OperatorOverloading/Matrix.cs" Line="94" Column="27" />
+      <File FileName="OperatorOverloading/City.cs" Line="16" Column="1" />
+      <File FileName="OperatorOverloading/CreditCard.cs" Line="20" Column="3" />
+      <File FileName="HomeWork2(OOP)/Product.cs" Line="1" Column="1" />
+      <File FileName="Interface/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ProHomework" expanded="True">
-            <Node name="HomeWork2(OOP)" expanded="True" />
-            <Node name="HomeworkMusicInstrument" expanded="True" />
-            <Node name="HomeworkStruct" expanded="True" />
-            <Node name="Interface">
-              <Node name="Program.cs" selected="True" />
+            <Node name="OperatorOverloading">
+              <Node name="Matrix.cs" selected="True" />
             </Node>
-            <Node name="ProHomework" expanded="True" />
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Chtototamtipa FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.OperatorOverloading PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ProHomework PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.HomeworkStruct PreferredExecutionTarget="MonoDevelop.Default" />
@@ -30,5 +36,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Interface FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Interface PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
