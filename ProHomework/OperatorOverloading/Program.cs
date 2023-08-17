@@ -23,35 +23,35 @@ namespace OperatorOverloading
             var matrix1 = new Matrix(3, 3, true);
             var matrix2 = new Matrix(3, 3, true);
 
-            Console.WriteLine($"\nМатрица 1:\n {matrix1}\nМатрица 2:\n {matrix2}");
+            Console.WriteLine($"\nМатриця 1:\n {matrix1}\nМатриця 2:\n {matrix2}");
 
             if (matrix1 == matrix2)
             {
-                Console.WriteLine("\nУ матриц одинаковые размеры, можно добавлять и отнимать");
+                Console.WriteLine("\nУ матриць однакові розміри, можна додавати і віднімати");
 
                 matrix1 += matrix2;
                 //matrix1 -= matrix2;
 
-                Console.WriteLine("\nПосле суммирования:");
-                Console.WriteLine($"\nМатрица 1:\n {matrix1}\nМатрица 2:\n {matrix2}");
+                Console.WriteLine("\nПісля складання:");
+                Console.WriteLine($"\nМатриця 1:\n {matrix1}\nМатриця 2:\n {matrix2}");
             }
             
             matrix1 *= 5;
 
-            Console.WriteLine("\nПосле умножения на 5:");
-            Console.WriteLine($"\nМатрица 1:\n {matrix1}\nМатрица 2:\n {matrix2}");
+            Console.WriteLine("\nПісля множення на 5:");
+            Console.WriteLine($"\nМатриця 1:\n {matrix1}\nМатриця 2:\n {matrix2}");
 
             if (matrix1.Rows == matrix2.Columns)
             {
-                Console.WriteLine("\nСтолбцы 1й равны строкам 2й, можно умножить друг на друга");
+                Console.WriteLine("\nСтовбці першої рівні строкам другої, можна множити одну на другу");
 
                 matrix1 *= matrix2;
 
-                Console.WriteLine($"\nМатрица 1:\n {matrix1}\nМатрица 2:\n {matrix2}");
+                Console.WriteLine($"\nМатриця 1:\n {matrix1}\nМатриця 2:\n {matrix2}");
             }
 
             bool isSameMatrix = matrix1.Equals(matrix2);
-            Console.WriteLine(isSameMatrix ? "\nодин и тот же экземпларо матрицы" : "\n2 разных экземпляра матриц");
+            Console.WriteLine(isSameMatrix ? "\nодин і той же екземпляр матриці" : "\n2 різних экземпляра матриць");
 
             // Завдання 3
             var people1 = new City(1000000);
@@ -68,7 +68,7 @@ namespace OperatorOverloading
             CreditCard card1 = new CreditCard("123", 1000.00m);
             CreditCard card2 = new CreditCard("456", 1500.30m);
 
-            Console.WriteLine("Почтковий баланс:");
+            Console.WriteLine("Початковий баланс:");
             Console.WriteLine("Card 1: " + card1.Balance);
             Console.WriteLine("Card 2: " + card2.Balance);
 
@@ -100,6 +100,8 @@ namespace OperatorOverloading
             {
                 Console.WriteLine("Картки мають однаковий баланс.");
             }
+
+            var isSameBalance = card1.Equals(card2);
 
             Console.ReadKey();
         }

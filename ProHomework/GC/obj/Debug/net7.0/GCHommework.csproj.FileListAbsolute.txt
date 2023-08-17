@@ -1,0 +1,15 @@
+/Users/karinaboyko/Repos/Sharp/ProHomework/GC/bin/Debug/net7.0/GCHommework
+/Users/karinaboyko/Repos/Sharp/ProHomework/GC/bin/Debug/net7.0/GCHommework.deps.json
+/Users/karinaboyko/Repos/Sharp/ProHomework/GC/bin/Debug/net7.0/GCHommework.runtimeconfig.json
+/Users/karinaboyko/Repos/Sharp/ProHomework/GC/bin/Debug/net7.0/GCHommework.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/GC/bin/Debug/net7.0/GCHommework.pdb
+/Users/karinaboyko/Repos/Sharp/ProHomework/GC/obj/Debug/net7.0/GCHommework.csproj.AssemblyReference.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/GC/obj/Debug/net7.0/GCHommework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karinaboyko/Repos/Sharp/ProHomework/GC/obj/Debug/net7.0/GCHommework.AssemblyInfoInputs.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/GC/obj/Debug/net7.0/GCHommework.AssemblyInfo.cs
+/Users/karinaboyko/Repos/Sharp/ProHomework/GC/obj/Debug/net7.0/GCHommework.csproj.CoreCompileInputs.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/GC/obj/Debug/net7.0/GCHommework.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/GC/obj/Debug/net7.0/refint/GCHommework.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/GC/obj/Debug/net7.0/GCHommework.pdb
+/Users/karinaboyko/Repos/Sharp/ProHomework/GC/obj/Debug/net7.0/GCHommework.genruntimeconfig.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/GC/obj/Debug/net7.0/ref/GCHommework.dll

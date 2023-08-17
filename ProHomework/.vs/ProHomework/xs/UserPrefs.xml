@@ -1,22 +1,27 @@
-﻿<Properties StartupConfiguration="{FC73745D-A5A0-45D0-AE25-A81EEDDE9128}|Default">
+﻿<Properties StartupConfiguration="{4A3CE11D-CD5B-45DA-874C-6E672A341AF6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Interface PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HomeworkStruct PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.GCHommework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HomeworkMusicInstrument PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ProHomework PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.HomeWork2_228OOP_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="OperatorOverloading/Matrix.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GC/Shop.cs">
     <Files>
-      <File FileName="OperatorOverloading/Program.cs" Line="54" Column="43" />
-      <File FileName="OperatorOverloading/Employee.cs" Line="23" Column="1" />
-      <File FileName="OperatorOverloading/Matrix.cs" Line="94" Column="27" />
-      <File FileName="OperatorOverloading/City.cs" Line="16" Column="1" />
-      <File FileName="OperatorOverloading/CreditCard.cs" Line="20" Column="3" />
-      <File FileName="HomeWork2(OOP)/Product.cs" Line="1" Column="1" />
-      <File FileName="Interface/Program.cs" Line="1" Column="1" />
+      <File FileName="GC/Program.cs" Line="16" Column="28" />
+      <File FileName="GC/Shop.cs" Line="6" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ProHomework" expanded="True">
-            <Node name="OperatorOverloading">
-              <Node name="Matrix.cs" selected="True" />
+            <Node name="GCHommework">
+              <Node name="Shop.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -28,13 +33,4 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Chtototamtipa FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.OperatorOverloading PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.ProHomework PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.HomeworkStruct PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.HomeworkMusicInstrument PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Interface PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
