@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloading", "Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCHommework", "GC\GCHommework.csproj", "{4A3CE11D-CD5B-45DA-874C-6E672A341AF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingHommework", "ThreadingHommework\ThreadingHommework.csproj", "{CCE2DF6A-6FB5-4ED5-A10E-436F74AC5E18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4A3CE11D-CD5B-45DA-874C-6E672A341AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A3CE11D-CD5B-45DA-874C-6E672A341AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A3CE11D-CD5B-45DA-874C-6E672A341AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE2DF6A-6FB5-4ED5-A10E-436F74AC5E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE2DF6A-6FB5-4ED5-A10E-436F74AC5E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE2DF6A-6FB5-4ED5-A10E-436F74AC5E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE2DF6A-6FB5-4ED5-A10E-436F74AC5E18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

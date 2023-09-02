@@ -1,0 +1,15 @@
+/Users/karinaboyko/Repos/Sharp/ProHomework/ThreadingHommework/bin/Debug/net7.0/ThreadingHommework
+/Users/karinaboyko/Repos/Sharp/ProHomework/ThreadingHommework/bin/Debug/net7.0/ThreadingHommework.deps.json
+/Users/karinaboyko/Repos/Sharp/ProHomework/ThreadingHommework/bin/Debug/net7.0/ThreadingHommework.runtimeconfig.json
+/Users/karinaboyko/Repos/Sharp/ProHomework/ThreadingHommework/bin/Debug/net7.0/ThreadingHommework.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/ThreadingHommework/bin/Debug/net7.0/ThreadingHommework.pdb
+/Users/karinaboyko/Repos/Sharp/ProHomework/ThreadingHommework/obj/Debug/net7.0/ThreadingHommework.csproj.AssemblyReference.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/ThreadingHommework/obj/Debug/net7.0/ThreadingHommework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karinaboyko/Repos/Sharp/ProHomework/ThreadingHommework/obj/Debug/net7.0/ThreadingHommework.AssemblyInfoInputs.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/ThreadingHommework/obj/Debug/net7.0/ThreadingHommework.AssemblyInfo.cs
+/Users/karinaboyko/Repos/Sharp/ProHomework/ThreadingHommework/obj/Debug/net7.0/ThreadingHommework.csproj.CoreCompileInputs.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/ThreadingHommework/obj/Debug/net7.0/ThreadingHommework.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/ThreadingHommework/obj/Debug/net7.0/refint/ThreadingHommework.dll
+/Users/karinaboyko/Repos/Sharp/ProHomework/ThreadingHommework/obj/Debug/net7.0/ThreadingHommework.pdb
+/Users/karinaboyko/Repos/Sharp/ProHomework/ThreadingHommework/obj/Debug/net7.0/ThreadingHommework.genruntimeconfig.cache
+/Users/karinaboyko/Repos/Sharp/ProHomework/ThreadingHommework/obj/Debug/net7.0/ref/ThreadingHommework.dll
