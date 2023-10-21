@@ -1,0 +1,20 @@
+﻿@model List<Note>
+
+<h2>Список заміток</h2>
+
+<table>
+    <tr>
+        <th>Назва</th>
+        <th>Дата створення</th>
+        <th>Теги</th>
+    </tr>
+    @foreach (var note in Model)
+    {
+        <tr>
+            <td>@note.Title</td>
+            <td>@note.CreatedDate</td>
+            <td>@string.Join(", ", note.Tags)</td>
+        </tr>
+    }
+</table>
+

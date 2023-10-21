@@ -1,20 +1,23 @@
 ﻿<Properties StartupConfiguration="{CCE2DF6A-6FB5-4ED5-A10E-436F74AC5E18}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.HomeworkMusicInstrument PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Chtototamtipa FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.OperatorOverloading PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ThreadingHommework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Interface PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.ProHomework PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Interface PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.ThreadingHommework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HomeworkStruct PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.HomeWork2_228OOP_229 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ThreadingHommework/Customer.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Chtototamtipa FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ProHomework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HomeworkMusicInstrument PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.GCHommework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThreadingHommework/Program.cs">
     <Files>
       <File FileName="GC/Program.cs" />
-      <File FileName="ThreadingHommework/Program.cs" />
-      <File FileName="ThreadingHommework/Barber.cs" />
-      <File FileName="ThreadingHommework/Customer.cs" Line="20" Column="25" />
+      <File FileName="ThreadingHommework/Program.cs" Line="28" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,24 +25,11 @@
           <Node name="ProHomework">
             <Node name="GCHommework" expanded="True" />
             <Node name="ThreadingHommework" expanded="True">
-              <Node name="Customer.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="ClassPad">
-        <State name="__root__">
-          <Node name="ProHomework" expanded="True" />
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.HomeworkStruct PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.GCHommework PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.OperatorOverloading PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
